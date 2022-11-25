@@ -4,9 +4,9 @@
 
 ##
 
-<div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kiryuudark&show_icons=true&theme=transparent">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiryuudark&layout=compact&langs_count=16&theme=transparent">
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kiryuudark&show_icons=true&theme=transparent">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryuudark&layout=compact&langs_count=16&theme=transparent">
 </div>
 <div style="Display: inline_block"><br>
  <img align="center" alt="Python" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
